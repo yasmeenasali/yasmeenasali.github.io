@@ -15,7 +15,7 @@ redirect_from:
 
 ## Hydejack
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
+A boutique Jekyll theme for hackers, nerds, and academics.  Hello Test. 
 {:.lead}
 
 1. this list will be replaced by the toc
@@ -40,11 +40,6 @@ It includes a blog that is suitable for both prose and technical documentation, 
 **Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
 
 Hydejack is all static sites. _HTML_. All you need is a web server --- any web server --- to have a professional web presence that lasts a lifetime.
-
-## Download
-
-{% include table.md %}
-
 
 ## A Free Blogging Theme
 **Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.

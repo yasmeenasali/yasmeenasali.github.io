@@ -20,16 +20,15 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 Yasmeen Asali 
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Personal Website for Yasmeen Asali
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Ph.D. Student in Astrophysics
 
 # A list of keywords for your blog
 keywords:              []
@@ -42,8 +41,8 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Yasmeen Asali
+  email:               yasmeen.asali@yale.edu
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -88,8 +87,8 @@ theme: jekyll-theme-hydejack
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          rgb(79,177,186)
+accent_image:          /assets/img/header.jpg
+accent_color:          rgb(172,165,251) 
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
