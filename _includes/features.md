@@ -1,23 +1,15 @@
-An incomplete list of features included in all versions of **Hydejack**:
+Increasing the accesibility and inclusivity of science is deeply important to me, and below are some of the ways I engage with both my professional and public communities.
 
-* Responsive layout with unique design features for every screen size
-* Cover Pages for a stunning first impression.
-* Customizable sidebar and touch-enabled drawer menu
-* Single Page Web App-style page loading
-* Advanced FLIP animations, inspired by Material Design
-* Good [Google PageSpeed Score][gpss][^11]
-* [Syntax highlighting][syntax], powered by [Rouge]
-* [LaTeX math blocks][latex], rendered with ether [KaTeX] or [MathJax] at your choice
-* Soft-coded labels: Change wording or translate to other languages via a single file
-* Support for categories and tags
-* Author section below each article and support for multiple authors
-* Built-in icons for many social networks
-* Simple and semantic HTML + Structured Data
-* Google Analytics and Google Fonts support
-* Works with GitHub Pages out of the box[^12]
+## Outreach and Mentoring
 
-[^11]: Actual page load speed depends on your hosting provider, location, resolution and format of images, usage of 3rd party plugins, and other factors.
+* [Reading Team Math](https://sites.google.com/view/readingteammath/)
+* [Columbia BlueShift](https://blueshift.astro.columbia.edu/)
+* [SCiMMA](https://scimma.org/)
+* [Columbia Astronomy Public Outreach](http://outreach.astro.columbia.edu/)
+* [Letters to a Pre-Scientist](https://www.prescientist.org/)
+* [Skype a Scientist](https://www.skypeascientist.com/)
 
-[^12]: Some limitations apply, most notably the need to use use MathJax instead of KaTeX for math block rendering.
+## Service 
 
-*[FLIP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations.
+* Yale Astronomy Student Council 
+* Yale Astronomy Climate and Diversity Committee
