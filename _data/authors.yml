@@ -9,7 +9,7 @@ author1:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
     I am a Ph.D. candidate in the Astronomy Department at 
-    Yale University working with the [SAGA Survey](https://sagasurvey.org/) on characterising satellite galaxies.
+    Yale University working with the [SAGA Survey](https://sagasurvey.org/).
 
   # This photo will be used in the about section
   picture:
