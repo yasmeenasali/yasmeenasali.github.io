@@ -1,3 +1,7 @@
+# Personal Website for Yasmeen Asali 
+
+Updated 2023 
+
 # Hydejack Starter Kit
 
 A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
