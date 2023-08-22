@@ -2,6 +2,8 @@ Increasing the accesibility and inclusivity of science is deeply important to me
 
 ## Outreach and Mentoring
 
+* [Yale Astro Sibs Program](https://astronomy.yale.edu/academics/undergraduate-program/astro-sibs-undergraduate-mentorship-program)
+* [Open Labs at Yale](https://theopenlabs.sites.yale.edu/)
 * [Reading Team Math](https://sites.google.com/view/readingteammath/)
 * [Columbia BlueShift](https://blueshift.astro.columbia.edu/)
 * [SCiMMA](https://scimma.org/)
@@ -11,5 +13,7 @@ Increasing the accesibility and inclusivity of science is deeply important to me
 
 ## Service 
 
-* Yale Astronomy Student Council 
-* Yale Astronomy Climate and Diversity Committee
+* [Yale Astronomy Student Council](https://astronomy.yale.edu/about/astronomy-student-council) 
+* [Yale Astronomy Climate and Diversity Committee](https://astronomy.yale.edu/about/climate-and-diversity)
+* [Yale Data Science X Astronomy & Astrophysics Seminar](http://bit.ly/ds-astro-jc)
+
