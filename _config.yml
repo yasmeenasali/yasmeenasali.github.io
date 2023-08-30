@@ -77,6 +77,9 @@ permalink:             /:categories/:year-:month-:day-:title/
 paginate:              10
 paginate_path:         /:num/
 
+# Google Analytics 
+google_analytics:      G-1ZMEWJF8E5
+
 # Theme
 # ---------------------------------------------------------------------------------------
 
