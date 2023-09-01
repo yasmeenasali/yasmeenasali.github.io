@@ -5,6 +5,7 @@ sitemap: false
 
 # Credits
 
+- Logo design credit goes to Imad Pasha and Chloe Neufeld 
 - This website is hosted on [Github Pages - find the source code here](https://github.com/yasmeenasali/yasmeenasali.github.io){:target="_blank"}.
 - The ["Typewriter.js"](https://github.com/tameemsafi/typewriterjs){:target="_blank"} library is licensed under the [MIT License](https://github.com/tameemsafi/typewriterjs/blob/master/LICENSE){:target="_blank"}.
 - This website is powered by the free version of Hydejack, which is licensed under GPLv3 (see below for a verbatim copy). Also see [notice](https://hydejack.com/notice/){:target="_blank"}.
