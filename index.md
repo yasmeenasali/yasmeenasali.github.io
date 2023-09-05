@@ -70,6 +70,8 @@ Complete satellite mass functions of a statistical sample of Milky Way analog sy
 
 You can email me at: yasmeen.asali@yale.edu
 
+{% include google-analytics.html %}
+
 <style type="text/css">
   .body-social > ul {
     display: inline-block;
