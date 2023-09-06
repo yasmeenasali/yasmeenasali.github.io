@@ -35,7 +35,7 @@ I graduated from Columbia University in 2020 with a BA in Astrophysics and Depar
 
 I care deeply about mentoring, pedagogy, and public education, and I devote time to building community in a variety of ways. I serve as an elected representative on the [Astronomy Student Council at Yale](https://astronomy.yale.edu/about/astronomy-student-council), and am a member of the [Astronomy Climate and Diversity Committee](https://astronomy.yale.edu/about/climate-and-diversity). I am also a [McDougal Graduate Teaching Fellow](https://poorvucenter.yale.edu/people/yasmeen-asali) at the Poorvu Center for Teaching and Learning and a Graduate Affiliate at Ezra Stiles College. Outside of astronomy, I love to care for my constantly growing collection of plants. I enjoy visiting museums and learning about art history, and I love to travel. I am also a big fan of sudoku and sudoku variants, and I often (try to) solve the puzzles from the [Cracking the Cryptic](https://www.youtube.com/channel/UCC-UOdK8-mIjxBQm_ot1T-Q) youtube channel.
 
-I was interviewed by the Blue and White maganzine in early 2020, and the illustration on the right comes from that article. You can [check it out here](https://www.theblueandwhite.org/post/yasmeen-asali) to read more about me!
+I was interviewed by the Blue and White maganzine in early 2020. You can [check it out here](https://www.theblueandwhite.org/post/yasmeen-asali) to read more about me!
 
 <!-- <hr style="border:2px solid gray"> -->
 <hr/>
