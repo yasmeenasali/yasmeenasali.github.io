@@ -3,6 +3,10 @@ layout: plain
 sitemap: false
 ---
 
+# Website Content
+
+All rights reserved by Yasmeen Asali.
+
 # Credits
 
 - Logo design credit goes to Imad Pasha and Chloe Neufeld 
