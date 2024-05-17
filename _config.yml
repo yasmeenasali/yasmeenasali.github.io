@@ -56,6 +56,8 @@ menu:
     url:               /#community
   - title:             Contact
     url:               /#contact
+  - title:             Travels
+    url:               /travels/
   - title:             CV 
     url:               /assets/files/Asali_CV.pdf
 
