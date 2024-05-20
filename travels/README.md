@@ -53,7 +53,10 @@ Here is a list of where I've been for visits, meetings, or workshops, inspired b
 
 - November 1 - 3: [Conference for Undergraduate Women in Astronomy at West Virginia University](https://gwac.wvu.edu/blog/2019/10/17/-conference-for-undergraduate-women-in-astronomy-cuwia-at-west-virginia-university-on-november-1-3-2019), Morgantown, WV
 - August 19 - 28: [La Serena School for Data Science](http://lssds.aura-astronomy.org/winter_school/content/2019-final-project-presentations), La Serena, Chile
+- July 31 - August 2: Max Planck Institute for Gravitational Physics, Hannover, Germany
 - July 7 - 12: [GR22 and Amaldi13](https://www.gr22amaldi13.com/), Valencia, Spain
+- June 3 - July 30: Nikhef, Amsterdam, Netherlands
+- May 27 - 31: DESY, Hamburg, Germany 
 - May 2 - 4: LSST Detection of Optical Counterparts of Gravitational Waves 2nd Workshop, Columbia, NYC, NY
 - January 25 - 26: SCiMMA Community Planning Workshop, Columbia, NYC, NY
 - January 6 - 10: [AAS #233](https://aas.org/meetings/aas233), Seattle, WA
@@ -63,4 +66,5 @@ Here is a list of where I've been for visits, meetings, or workshops, inspired b
 ### 2018 
 
 - November 30: Future by the Future: Workshop in Multi-messenger Astrophysics, Columbia, NYC, NY
+- June 4 - August 13: Instituto de Astrofísica, Pontificia Universidad Católica de Chile, Santiago, Chile 
 - January 12 - 14: [APS Conference for Undergraduate Women in Physics at Columbia](https://cuwip-nyc.github.io/), NYC, NY
