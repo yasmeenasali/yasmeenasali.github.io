@@ -12,8 +12,8 @@ Here is a list of where I've been for visits, meetings, or workshops, inspired b
 
 ### 2024 
 
+- September 25: Columbia, NYC, NY
 - July 29 - August 2: [Small Galaxies, Cosmic Questions II](https://durhamdwarfsconference.github.io/), Durham, UK
-- July 8 - 11: [Dwarf Galaxies, Star Clusters, and Streams in the LSST Era](https://kicp-workshops.uchicago.edu/2024-DGSCS/index.php), KICP, Chicago, IL
 - March 18 - 20: EMIT Astronomy Seminar, Vanderbilt University, Nashville, TN
 - March 12 - 13: Colloquium, Amherst College, Amherst, MA
 
