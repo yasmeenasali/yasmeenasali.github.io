@@ -10,9 +10,17 @@ permalink: /travels/
 
 Here is a list of where I've been for visits, meetings, or workshops, inspired by [Yao-Yuan Mao](https://yymao.github.io/travel.html) and [Risa Wechsler](https://www.risawechsler.com/travels.html). 
 
+### 2025
+
+- October 20: Astronomy Journal Club, Rutgers University, New Brunswick, NJ
+- September 24 - 25: Astronomy Journal Club, University of Utah, Salt Lake City, UT
+- September 8: Space Telescope Science Institute, Baltimore, MD
+- June 23 - 25: [Galactic Frontiers II: Dwarf Galaxies in the Local Volume and Beyond](https://sites.dartmouth.edu/galactic-frontiers-2025/), Dartmouth College, Hanover, NH
+- April 25: Astronomy Journal Club, University of Pennsylvania, PA
+
 ### 2024 
 
-- September 25: Columbia, NYC, NY
+- September 25: Columbia University, NYC, NY
 - July 29 - August 2: [Small Galaxies, Cosmic Questions II](https://durhamdwarfsconference.github.io/), Durham, UK
 - March 18 - 20: EMIT Astronomy Seminar, Vanderbilt University, Nashville, TN
 - March 12 - 13: Colloquium, Amherst College, Amherst, MA
