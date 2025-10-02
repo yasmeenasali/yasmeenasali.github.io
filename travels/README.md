@@ -20,6 +20,7 @@ Here is a list of where I've been for visits, meetings, or workshops, inspired b
 
 ### 2024 
 
+- October 27 - November 4: Green Bank Observatory, Green Bank, WV
 - September 25: Columbia University, NYC, NY
 - July 29 - August 2: [Small Galaxies, Cosmic Questions II](https://durhamdwarfsconference.github.io/), Durham, UK
 - March 18 - 20: EMIT Astronomy Seminar, Vanderbilt University, Nashville, TN
