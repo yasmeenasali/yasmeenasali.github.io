@@ -12,6 +12,7 @@ Here is a list of where I've been for visits, meetings, or workshops, inspired b
 
 ### 2025
 
+- November 3 - 4: Astronomy Seminar, Dartmouth College, Hanover, NH
 - October 20: Astronomy Journal Club, Rutgers University, New Brunswick, NJ
 - September 24 - 25: Astronomy Journal Club, University of Utah, Salt Lake City, UT
 - September 8: Space Telescope Science Institute, Baltimore, MD
